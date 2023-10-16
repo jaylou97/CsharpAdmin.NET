@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayParkingAdminCsharp", "PayParkingAdminCsharp\PayParkingAdminCsharp.csproj", "{305C74E5-45FA-4EAC-BCDE-6441A4AD7439}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PayParkingAdminSetup", "PayParkingAdminSetup\PayParkingAdminSetup.vdproj", "{4101305C-A3D9-46F5-BF04-6FF8105A727D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{305C74E5-45FA-4EAC-BCDE-6441A4AD7439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305C74E5-45FA-4EAC-BCDE-6441A4AD7439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305C74E5-45FA-4EAC-BCDE-6441A4AD7439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305C74E5-45FA-4EAC-BCDE-6441A4AD7439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4101305C-A3D9-46F5-BF04-6FF8105A727D}.Debug|Any CPU.ActiveCfg = Debug
+		{4101305C-A3D9-46F5-BF04-6FF8105A727D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F51490DC-6C47-495C-88F5-75418AEE2AD8}
+	EndGlobalSection
+EndGlobal
